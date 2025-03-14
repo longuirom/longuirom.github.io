@@ -1,1 +1,0 @@
-import{t,h as e}from'./index-BR4p13gT.js';var r=t('<main class=text-center><h1 class="md3-color-primary pt-10 text-4xl font-medium">404 - Page Not Found</h1><br><mdui-button href=/>Click here to go to home page',!0,!1,!1);const o=()=>{return(t=r()).firstChild.nextSibling.nextSibling._$owner=e(),t;var t};export{o as default};
