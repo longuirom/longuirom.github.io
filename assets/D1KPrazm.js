@@ -1,1 +1,0 @@
-import{t}from'./index-BCX9FiTd.js';var e=t('<main class=text-center><h1 class="md3-color-primary pt-10 text-4xl font-medium">404 - Page Not Found</h1><br><a href=/ class="btn btn-soft rounded-full">Click here to go to home page');const o=()=>e();export{o as default};
