@@ -1,0 +1,1 @@
+import{t,i as r,b as e}from'./index-B1F0XnAl.js';import{B as o}from'./D8al7gRA.js';var a=t('<main class=text-center><h1 class="md3-color-primary pt-10 text-4xl font-medium">404 - Page Not Found</h1><br>');const i=()=>{return(t=a()).firstChild.nextSibling,r(t,e(o,{href:'/',children:'Click here to go to home page.'}),null),t;var t};export{i as default};
