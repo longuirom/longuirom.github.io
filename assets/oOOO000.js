@@ -1,0 +1,1 @@
+import{f as O,w as a}from'./OOO0OOO.js';function o(o){O(()=>{a({head:o?.head})})}export{o as H};
