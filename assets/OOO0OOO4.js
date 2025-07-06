@@ -1,0 +1,1 @@
+const e=e=>{if(!e)return'';const r=new Date(e);return['January','February','March','April','May','June','July','August','September','October','November','December'][r.getMonth()]+' '+r.getDate()+', '+r.getFullYear()};export{e as f};
